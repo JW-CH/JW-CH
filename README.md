@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Looks like you found my profile. Feel free to look around!
+
+<p>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JW-CH&card_width=250" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JW-CH&layout=compact&langs_count=8&card_width=250" />
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JW-CH&label=Profile%20views&color=0e75b6&style=flat" alt="JW-CH" /> </p>
+
 <!--
 **JW-CH/JW-CH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
